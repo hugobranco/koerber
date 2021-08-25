@@ -1,0 +1,5 @@
+apscheduler==3.7.0
+sqlalchemy==1.4.23
+SQLAlchemy-serializer==1.4.1
+PyMySQL==1.0.2
+requests==2.26.0
